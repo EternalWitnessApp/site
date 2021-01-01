@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "site": "eternalwitness-website",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },
+  "remoteconfig": {
+    "template": "remoteconfig.json"
+  }
+}
